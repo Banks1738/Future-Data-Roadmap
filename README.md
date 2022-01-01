@@ -21,10 +21,8 @@ This project is used by the following:
 Microsoft Word
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/73833385/147840339-9e6a4085-ea14-403d-9ba6-427788ba13c4.png)
-![2](https://user-images.githubusercontent.com/73833385/147840342-c40ea182-ce9c-4c70-a569-cf6838812d46.png)
 
-![3](https://user-images.githubusercontent.com/73833385/147840344-4304c43f-60f9-4b80-bbc2-303526db18f9.png)
+![1](https://user-images.githubusercontent.com/73833385/147850361-b6f97839-3cb8-41b9-9119-e63e1c1b1964.png)
 
 
 # Hi, My name is Bankole! 👋
